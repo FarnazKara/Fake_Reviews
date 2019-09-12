@@ -1,3 +1,4 @@
+http://www.cs.cmu.edu/~zhitingh/pub-by-year.html
 https://www.topbots.com/ai-research-gan-vae-text-generation/
 https://github.com/suragnair/seqGAN
 https://github.com/X-czh/SeqGAN-PyTorch

@@ -1,4 +1,5 @@
 http://www.cs.cmu.edu/~zhitingh/pub-by-year.html
+https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-1-2b886c8cab10
 https://www.topbots.com/ai-research-gan-vae-text-generation/
 https://github.com/suragnair/seqGAN
 https://github.com/X-czh/SeqGAN-PyTorch

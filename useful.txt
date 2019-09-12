@@ -1,1 +1,4 @@
 https://www.topbots.com/ai-research-gan-vae-text-generation/
+https://github.com/suragnair/seqGAN
+https://github.com/X-czh/SeqGAN-PyTorch
+https://github.com/dhruvkhattar/MVAE

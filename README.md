@@ -2,7 +2,7 @@
 For training the model, run ```python train.py --config config/nmt.ini```
 
 
-For prediction, run translate.py with --config /config/vnmt.ini
+For prediction, run ```python translate.py with --config /config/vnmt.ini```
 
 
 This code is based on https://github.com/wang-h/Variational-NMT
